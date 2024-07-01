@@ -1,0 +1,191 @@
+{
+  "transcription": "ɪ",
+  "name": "short i ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/vowelSounds/ɪ/ɪ.mp3",
+  "photoPath": "AmericanSounds/result/vowelSounds/ɪ/ɪ.gif",
+  "spellingWordList": [
+    {
+      "sound": "ɪ",
+      "name": "lip",
+      "transcription": "l\u003cstrong\u003ei\u003c/strong\u003ep /l\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eɪ\u003c/span\u003e\u003c/strong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ep\u003c/span\u003e/",
+      "audioPath": "AmericanSounds/audio/lip.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "it",
+      "transcription": "\u003cstrong\u003ei\u003c/strong\u003et /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eɪ\u003c/span\u003e\u003c/strong\u003et/",
+      "audioPath": "AmericanSounds/audio/it.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "spin",
+      "transcription": "sp\u003cstrong\u003ei\u003c/strong\u003en /sp\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eɪ\u003c/span\u003e\u003c/strong\u003en/",
+      "audioPath": "AmericanSounds/audio/spin.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "busy",
+      "transcription": "busy",
+      "audioPath": "AmericanSounds/audio/busy.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "myth",
+      "transcription": "m\u003cstrong\u003ey\u003c/strong\u003eth /m\u003cstrong\u003eɪ\u003c/strong\u003eθ/",
+      "audioPath": "AmericanSounds/audio/myth.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "symbol",
+      "transcription": "s\u003cstrong\u003ey\u003c/strong\u003embol /s\u003cstrong\u003eɪ\u003c/strong\u003embəl/",
+      "audioPath": "AmericanSounds/audio/symbol.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "building",
+      "transcription": "building",
+      "audioPath": "AmericanSounds/audio/building.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "system",
+      "transcription": "s\u003cstrong\u003ey\u003c/strong\u003estem /s\u003cstrong\u003eɪ\u003c/strong\u003estəm/",
+      "audioPath": "AmericanSounds/audio/system.mp3"
+    },
+    {
+      "sound": "ɪ",
+      "name": "give",
+      "transcription": "give",
+      "audioPath": "AmericanSounds/audio/give.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "ɪ",
+        "name": "ill",
+        "audioPath": "AmericanSounds/audio/ill.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "it",
+        "audioPath": "AmericanSounds/audio/it.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "impose",
+        "audioPath": "AmericanSounds/audio/impose.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "infant",
+        "audioPath": "AmericanSounds/audio/infant.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "instant",
+        "audioPath": "AmericanSounds/audio/instant.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "into",
+        "audioPath": "AmericanSounds/audio/into.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "issue",
+        "audioPath": "AmericanSounds/audio/issue.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "incident",
+        "audioPath": "AmericanSounds/audio/incident.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "initial",
+        "audioPath": "AmericanSounds/audio/initial.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "impossible",
+        "audioPath": "AmericanSounds/audio/impossible.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [],
+    "middleSound": [
+      {
+        "sound": "ɪ",
+        "name": "gift",
+        "audioPath": "AmericanSounds/audio/gift.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "limb",
+        "audioPath": "AmericanSounds/audio/limb.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "since",
+        "audioPath": "AmericanSounds/audio/since.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "admit",
+        "audioPath": "AmericanSounds/audio/admit.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "building",
+        "audioPath": "AmericanSounds/audio/building.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "commit",
+        "audioPath": "AmericanSounds/audio/commit.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "listen",
+        "audioPath": "AmericanSounds/audio/listen.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "window",
+        "audioPath": "AmericanSounds/audio/window.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "history",
+        "audioPath": "AmericanSounds/audio/history.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɪ",
+        "name": "minimum",
+        "audioPath": "AmericanSounds/audio/minimum.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "vowelSounds"
+}

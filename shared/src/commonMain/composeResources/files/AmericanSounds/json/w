@@ -1,0 +1,191 @@
+{
+  "transcription": "w",
+  "name": "w sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/w/w.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/w/w.gif",
+  "spellingWordList": [
+    {
+      "sound": "w",
+      "name": "why",
+      "transcription": "\u003cstrong\u003ewh\u003c/strong\u003ey /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɑɪ/",
+      "audioPath": "AmericanSounds/audio/why.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "quit",
+      "transcription": "\u003cstrong\u003equ\u003c/strong\u003eit /k\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɪt/",
+      "audioPath": "AmericanSounds/audio/quit.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "quiet",
+      "transcription": "\u003cstrong\u003equ\u003c/strong\u003eiet /\u0027k\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɪ ət/",
+      "audioPath": "AmericanSounds/audio/quiet.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "when",
+      "transcription": "\u003cstrong\u003ewh\u003c/strong\u003een /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɛn/",
+      "audioPath": "AmericanSounds/audio/when.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "win",
+      "transcription": "\u003cstrong\u003ew\u003c/strong\u003ein /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003ein/",
+      "audioPath": "AmericanSounds/audio/win.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "rewind",
+      "transcription": "re\u003cstrong\u003ew\u003c/strong\u003eind /ri \u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɑɪnd/",
+      "audioPath": "AmericanSounds/audio/rewind.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "sweet",
+      "transcription": "s\u003cstrong\u003ew\u003c/strong\u003eeet /s\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eit/",
+      "audioPath": "AmericanSounds/audio/sweet.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "while",
+      "transcription": "\u003cstrong\u003ewh\u003c/strong\u003eile /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003eɑɪl/",
+      "audioPath": "AmericanSounds/audio/while.mp3"
+    },
+    {
+      "sound": "w",
+      "name": "queen",
+      "transcription": "\u003cstrong\u003equ\u003c/strong\u003eeen /k\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ew\u003c/span\u003e\u003c/strong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ein\u003c/span\u003e/",
+      "audioPath": "AmericanSounds/audio/queen.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "w",
+        "name": "once",
+        "audioPath": "AmericanSounds/audio/once.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "one/won",
+        "audioPath": "AmericanSounds/audio/one%2fwon.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "watch",
+        "audioPath": "AmericanSounds/audio/watch.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "while",
+        "audioPath": "AmericanSounds/audio/while.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "white",
+        "audioPath": "AmericanSounds/audio/white.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "water",
+        "audioPath": "AmericanSounds/audio/water.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "whisper",
+        "audioPath": "AmericanSounds/audio/whisper.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "window",
+        "audioPath": "AmericanSounds/audio/window.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "woman",
+        "audioPath": "AmericanSounds/audio/woman.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "w",
+        "name": "wilderness",
+        "audioPath": "AmericanSounds/audio/wilderness.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [],
+    "middleSound": [
+      {
+        "sound": "w",
+        "name": "quick",
+        "audioPath": "AmericanSounds/audio/quick.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "square",
+        "audioPath": "AmericanSounds/audio/square.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "swim",
+        "audioPath": "AmericanSounds/audio/swim.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "twelve",
+        "audioPath": "AmericanSounds/audio/twelve.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "away",
+        "audioPath": "AmericanSounds/audio/away.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "language",
+        "audioPath": "AmericanSounds/audio/language.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "liquid",
+        "audioPath": "AmericanSounds/audio/liquid.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "quiet",
+        "audioPath": "AmericanSounds/audio/quiet.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "consequence",
+        "audioPath": "AmericanSounds/audio/consequence.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "w",
+        "name": "otherwise",
+        "audioPath": "AmericanSounds/audio/otherwise.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

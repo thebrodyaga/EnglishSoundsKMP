@@ -1,0 +1,154 @@
+{
+  "transcription": "ʊ",
+  "name": "other u ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/vowelSounds/ʊ/ʊ.mp3",
+  "photoPath": "AmericanSounds/result/vowelSounds/ʊ/ʊ.gif",
+  "spellingWordList": [
+    {
+      "sound": "ʊ",
+      "name": "put",
+      "transcription": "p\u003cstrong\u003eu\u003c/strong\u003et /p\u003cstrong\u003eʊ\u003c/strong\u003et/",
+      "audioPath": "AmericanSounds/audio/put.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "look",
+      "transcription": "l\u003cstrong\u003eoo\u003c/strong\u003ek /l\u003cstrong\u003eʊ\u003c/strong\u003ek/",
+      "audioPath": "AmericanSounds/audio/look.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "book",
+      "transcription": "b\u003cstrong\u003eoo\u003c/strong\u003ek /b\u003cstrong\u003eʊ\u003c/strong\u003ek/",
+      "audioPath": "AmericanSounds/audio/book.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "good",
+      "transcription": "g\u003cstrong\u003eoo\u003c/strong\u003ed /g\u003cstrong\u003eʊ\u003c/strong\u003ed/",
+      "audioPath": "AmericanSounds/audio/good.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "would",
+      "transcription": "would",
+      "audioPath": "AmericanSounds/audio/would.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "woman",
+      "transcription": "woman",
+      "audioPath": "AmericanSounds/audio/woman.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "could",
+      "transcription": "could",
+      "audioPath": "AmericanSounds/audio/could.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "full",
+      "transcription": "f\u003cstrong\u003eu\u003c/strong\u003ell /f\u003cstrong\u003eʊ\u003c/strong\u003el/",
+      "audioPath": "AmericanSounds/audio/full.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "sugar",
+      "transcription": "s\u003cstrong\u003eu\u003c/strong\u003egar /\u0027ʃ\u003cstrong\u003eʊg \u003c/strong\u003eɚ/",
+      "audioPath": "AmericanSounds/audio/sugar.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "pure",
+      "transcription": "p\u003cstrong\u003eu\u003c/strong\u003ere /p\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʊ\u003c/span\u003e\u003c/strong\u003e\u003cspan style\u003d\"font-size:medium\"\u003er\u003c/span\u003e/",
+      "audioPath": "AmericanSounds/audio/pure.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "should",
+      "transcription": "should",
+      "audioPath": "AmericanSounds/audio/should.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "cure",
+      "transcription": "c\u003cstrong\u003eu\u003c/strong\u003ere /k\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʊ\u003c/span\u003e\u003c/strong\u003e\u003cspan style\u003d\"font-size:medium\"\u003er\u003c/span\u003e/",
+      "audioPath": "AmericanSounds/audio/cure.mp3"
+    },
+    {
+      "sound": "ʊ",
+      "name": "insure",
+      "transcription": "ins\u003cstrong\u003eu\u003c/strong\u003ere /in \u0027ʃ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʊr\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/insure.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [],
+    "endSound": [],
+    "middleSound": [
+      {
+        "sound": "ʊ",
+        "name": "book",
+        "audioPath": "AmericanSounds/audio/book.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "could",
+        "audioPath": "AmericanSounds/audio/could.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "foot",
+        "audioPath": "AmericanSounds/audio/foot.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "look",
+        "audioPath": "AmericanSounds/audio/look.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "push",
+        "audioPath": "AmericanSounds/audio/push.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "put",
+        "audioPath": "AmericanSounds/audio/put.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "would/wood",
+        "audioPath": "AmericanSounds/audio/would%2fwood.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "sugar",
+        "audioPath": "AmericanSounds/audio/sugar.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "woman",
+        "audioPath": "AmericanSounds/audio/woman.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʊ",
+        "name": "neighborhood",
+        "audioPath": "AmericanSounds/audio/neighborhood.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "vowelSounds"
+}

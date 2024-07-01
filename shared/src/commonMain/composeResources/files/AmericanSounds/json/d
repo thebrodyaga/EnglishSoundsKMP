@@ -1,0 +1,216 @@
+{
+  "transcription": "d",
+  "name": "d sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/d/d.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/d/d.gif",
+  "spellingWordList": [
+    {
+      "sound": "d",
+      "name": "down",
+      "transcription": "\u003cstrong\u003ed\u003c/strong\u003eown /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ed\u003c/span\u003e\u003c/strong\u003eaʊn/",
+      "audioPath": "AmericanSounds/audio/down.mp3"
+    },
+    {
+      "sound": "d",
+      "name": "sad",
+      "transcription": "sa\u003cstrong\u003ed\u003c/strong\u003e /sæ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ed\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/sad.mp3"
+    },
+    {
+      "sound": "d",
+      "name": "ladder",
+      "transcription": "la\u003cstrong\u003edd\u003c/strong\u003eer /læ \u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ed\u003c/span\u003e\u003c/strong\u003eɚ/",
+      "audioPath": "AmericanSounds/audio/ladder.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "d",
+        "name": "dance",
+        "audioPath": "AmericanSounds/audio/dance.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "desk",
+        "audioPath": "AmericanSounds/audio/desk.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "dish",
+        "audioPath": "AmericanSounds/audio/dish.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "down",
+        "audioPath": "AmericanSounds/audio/down.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "daughter",
+        "audioPath": "AmericanSounds/audio/daughter.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "decent",
+        "audioPath": "AmericanSounds/audio/decent.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "describe",
+        "audioPath": "AmericanSounds/audio/describe.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "dollar",
+        "audioPath": "AmericanSounds/audio/dollar.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "digital",
+        "audioPath": "AmericanSounds/audio/digital.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "d",
+        "name": "definition",
+        "audioPath": "AmericanSounds/audio/definition.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "d",
+        "name": "bird",
+        "audioPath": "AmericanSounds/audio/bird.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "end",
+        "audioPath": "AmericanSounds/audio/end.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "guide",
+        "audioPath": "AmericanSounds/audio/guide.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "third",
+        "audioPath": "AmericanSounds/audio/third.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "award",
+        "audioPath": "AmericanSounds/audio/award.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "decide",
+        "audioPath": "AmericanSounds/audio/decide.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "hundred",
+        "audioPath": "AmericanSounds/audio/hundred.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "remind",
+        "audioPath": "AmericanSounds/audio/remind.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "succeed",
+        "audioPath": "AmericanSounds/audio/succeed.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "d",
+        "name": "recommend",
+        "audioPath": "AmericanSounds/audio/recommend.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "d",
+        "name": "adult",
+        "audioPath": "AmericanSounds/audio/adult.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "candy",
+        "audioPath": "AmericanSounds/audio/candy.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "middle",
+        "audioPath": "AmericanSounds/audio/middle.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "ready",
+        "audioPath": "AmericanSounds/audio/ready.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "adequate",
+        "audioPath": "AmericanSounds/audio/adequate.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "indicate",
+        "audioPath": "AmericanSounds/audio/indicate.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "modify",
+        "audioPath": "AmericanSounds/audio/modify.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "tradition",
+        "audioPath": "AmericanSounds/audio/tradition.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "video",
+        "audioPath": "AmericanSounds/audio/video.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "d",
+        "name": "independent",
+        "audioPath": "AmericanSounds/audio/independent.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

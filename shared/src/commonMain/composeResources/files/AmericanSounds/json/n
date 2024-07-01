@@ -1,0 +1,252 @@
+{
+  "transcription": "n",
+  "name": "n sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/n/n.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/n/n.gif",
+  "spellingWordList": [
+    {
+      "sound": "n",
+      "name": "banner",
+      "transcription": "ba\u003cstrong\u003enn\u003c/strong\u003eer /\u0027bæ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en \u003c/span\u003e\u003c/strong\u003eɚ/",
+      "audioPath": "AmericanSounds/audio/banner.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "knock",
+      "transcription": "\u003cstrong\u003ekn\u003c/strong\u003eock /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003eɑk/",
+      "audioPath": "AmericanSounds/audio/knock.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "note",
+      "transcription": "\u003cstrong\u003en\u003c/strong\u003eote /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003eoʊt/",
+      "audioPath": "AmericanSounds/audio/note.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "twin",
+      "transcription": "twi\u003cstrong\u003en\u003c/strong\u003e /twɪ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/twin.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "knee",
+      "transcription": "\u003cstrong\u003ekn\u003c/strong\u003eee /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003ei/",
+      "audioPath": "AmericanSounds/audio/knee.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "know",
+      "transcription": "\u003cstrong\u003ekn\u003c/strong\u003eow /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003eoʊ/",
+      "audioPath": "AmericanSounds/audio/know.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "sign",
+      "transcription": "si\u003cstrong\u003egn\u003c/strong\u003e /sɑɪ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/sign.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "gnome",
+      "transcription": "\u003cstrong\u003egn\u003c/strong\u003eome /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003eoʊm/",
+      "audioPath": "AmericanSounds/audio/gnome.mp3"
+    },
+    {
+      "sound": "n",
+      "name": "campaign",
+      "transcription": "campai\u003cstrong\u003egn\u003c/strong\u003e /ˌkæm peɪ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003en\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/campaign.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "n",
+        "name": "knee",
+        "audioPath": "AmericanSounds/audio/knee.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "name",
+        "audioPath": "AmericanSounds/audio/name.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "noise",
+        "audioPath": "AmericanSounds/audio/noise.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "note",
+        "audioPath": "AmericanSounds/audio/note.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "neighbor",
+        "audioPath": "AmericanSounds/audio/neighbor.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "network",
+        "audioPath": "AmericanSounds/audio/network.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "nothing",
+        "audioPath": "AmericanSounds/audio/nothing.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "number",
+        "audioPath": "AmericanSounds/audio/number.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "negative",
+        "audioPath": "AmericanSounds/audio/negative.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "n",
+        "name": "nutrition",
+        "audioPath": "AmericanSounds/audio/nutrition.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "n",
+        "name": "gone",
+        "audioPath": "AmericanSounds/audio/gone.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "mine",
+        "audioPath": "AmericanSounds/audio/mine.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "rain",
+        "audioPath": "AmericanSounds/audio/rain.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "alone",
+        "audioPath": "AmericanSounds/audio/alone.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "captain",
+        "audioPath": "AmericanSounds/audio/captain.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "hidden",
+        "audioPath": "AmericanSounds/audio/hidden.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "return",
+        "audioPath": "AmericanSounds/audio/return.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "woman",
+        "audioPath": "AmericanSounds/audio/woman.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "creation",
+        "audioPath": "AmericanSounds/audio/creation.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "n",
+        "name": "examine",
+        "audioPath": "AmericanSounds/audio/examine.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "n",
+        "name": "count",
+        "audioPath": "AmericanSounds/audio/count.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "once",
+        "audioPath": "AmericanSounds/audio/once.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "cancel",
+        "audioPath": "AmericanSounds/audio/cancel.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "dinner",
+        "audioPath": "AmericanSounds/audio/dinner.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "funny",
+        "audioPath": "AmericanSounds/audio/funny.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "income",
+        "audioPath": "AmericanSounds/audio/income.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "planet",
+        "audioPath": "AmericanSounds/audio/planet.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "annual",
+        "audioPath": "AmericanSounds/audio/annual.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "benefit",
+        "audioPath": "AmericanSounds/audio/benefit.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "n",
+        "name": "identify",
+        "audioPath": "AmericanSounds/audio/identify.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

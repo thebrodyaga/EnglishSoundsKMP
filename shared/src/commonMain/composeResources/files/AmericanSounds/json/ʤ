@@ -1,0 +1,288 @@
+{
+  "transcription": "ʤ",
+  "name": "j sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/ʤ/ʤ.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/ʤ/ʤ.gif",
+  "spellingWordList": [
+    {
+      "sound": "ʤ",
+      "name": "age",
+      "transcription": "a\u003cstrong\u003eg\u003c/strong\u003eenda /ə \u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɛn də/",
+      "audioPath": "AmericanSounds/audio/age.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "educate",
+      "transcription": "e\u003cstrong\u003ed\u003c/strong\u003eucate /\u0027ɛd \u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eə keɪt/",
+      "audioPath": "AmericanSounds/audio/educate.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "giant",
+      "transcription": "\u003cstrong\u003eg\u003c/strong\u003eiant /\u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɑɪ ənt/",
+      "audioPath": "AmericanSounds/audio/giant.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "jump",
+      "transcription": "\u003cstrong\u003ej\u003c/strong\u003eump /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eʌmp/",
+      "audioPath": "AmericanSounds/audio/jump.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "juice",
+      "transcription": "\u003cstrong\u003ej\u003c/strong\u003euice /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eus/",
+      "audioPath": "AmericanSounds/audio/juice.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "budget",
+      "transcription": "bu\u003cstrong\u003edg\u003c/strong\u003eet /bʌ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ \u003c/span\u003e\u003c/strong\u003eət/",
+      "audioPath": "AmericanSounds/audio/budget.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "edge",
+      "transcription": "e\u003cstrong\u003edg\u003c/strong\u003ee /ɛ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/edge.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "eject",
+      "transcription": "e\u003cstrong\u003ej\u003c/strong\u003eect /ɪ \u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɛct/",
+      "audioPath": "AmericanSounds/audio/eject.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "logic",
+      "transcription": "lo\u003cstrong\u003eg\u003c/strong\u003eic /\u0027lɑ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ \u003c/span\u003e\u003c/strong\u003eɪk/",
+      "audioPath": "AmericanSounds/audio/logic.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "gentle",
+      "transcription": "\u003cstrong\u003eg\u003c/strong\u003eentle /\u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɛn \u003cem\u003et\u003c/em\u003el̩/",
+      "audioPath": "AmericanSounds/audio/gentle.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "procedure",
+      "transcription": "proce\u003cstrong\u003ed\u003c/strong\u003eure /prə \u0027si \u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɚ/",
+      "audioPath": "AmericanSounds/audio/procedure.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "imagine",
+      "transcription": "ima\u003cstrong\u003eg\u003c/strong\u003eine /ɪm æ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ \u003c/span\u003e\u003c/strong\u003eɪn/",
+      "audioPath": "AmericanSounds/audio/imagine.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "schedule",
+      "transcription": "sche\u003cstrong\u003ed\u003c/strong\u003eule /\u0027skɛ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ \u003c/span\u003e\u003c/strong\u003eul/",
+      "audioPath": "AmericanSounds/audio/schedule.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "agenda",
+      "transcription": "a\u003cstrong\u003eg\u003c/strong\u003eenda /ə \u0027\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003eɛn də/",
+      "audioPath": "AmericanSounds/audio/agenda.mp3"
+    },
+    {
+      "sound": "ʤ",
+      "name": "bridge",
+      "transcription": "bri\u003cstrong\u003edg\u003c/strong\u003ee /brɪ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eʤ\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/bridge.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "ʤ",
+        "name": "job",
+        "audioPath": "AmericanSounds/audio/job.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "joint",
+        "audioPath": "AmericanSounds/audio/joint.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "juice",
+        "audioPath": "AmericanSounds/audio/juice.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "jump",
+        "audioPath": "AmericanSounds/audio/jump.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "genius",
+        "audioPath": "AmericanSounds/audio/genius.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "giant",
+        "audioPath": "AmericanSounds/audio/giant.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "journal",
+        "audioPath": "AmericanSounds/audio/journal.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "junior",
+        "audioPath": "AmericanSounds/audio/junior.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "general",
+        "audioPath": "AmericanSounds/audio/general.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "generation",
+        "audioPath": "AmericanSounds/audio/generation.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "ʤ",
+        "name": "change",
+        "audioPath": "AmericanSounds/audio/change.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "huge",
+        "audioPath": "AmericanSounds/audio/huge.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "charge",
+        "audioPath": "AmericanSounds/audio/charge.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "strange",
+        "audioPath": "AmericanSounds/audio/strange.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "average",
+        "audioPath": "AmericanSounds/audio/average.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "image",
+        "audioPath": "AmericanSounds/audio/image.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "language",
+        "audioPath": "AmericanSounds/audio/language.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "message",
+        "audioPath": "AmericanSounds/audio/message.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "encourage",
+        "audioPath": "AmericanSounds/audio/encourage.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "percentage",
+        "audioPath": "AmericanSounds/audio/percentage.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "ʤ",
+        "name": "agent",
+        "audioPath": "AmericanSounds/audio/agent.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "budget",
+        "audioPath": "AmericanSounds/audio/budget.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "danger",
+        "audioPath": "AmericanSounds/audio/danger.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "magic",
+        "audioPath": "AmericanSounds/audio/magic.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "agency",
+        "audioPath": "AmericanSounds/audio/agency.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "agenda",
+        "audioPath": "AmericanSounds/audio/agenda.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "energy",
+        "audioPath": "AmericanSounds/audio/energy.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "imagine",
+        "audioPath": "AmericanSounds/audio/imagine.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "apologize",
+        "audioPath": "AmericanSounds/audio/apologize.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ʤ",
+        "name": "original",
+        "audioPath": "AmericanSounds/audio/original.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

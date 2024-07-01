@@ -1,0 +1,234 @@
+{
+  "transcription": "r",
+  "name": "r sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/r/r.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/r/r.gif",
+  "spellingWordList": [
+    {
+      "sound": "r",
+      "name": "wrong",
+      "transcription": "\u003cstrong\u003ewr\u003c/strong\u003eong /\u003cstrong\u003er\u003c/strong\u003eɔŋ/",
+      "audioPath": "AmericanSounds/audio/wrong.mp3"
+    },
+    {
+      "sound": "r",
+      "name": "wrap",
+      "transcription": "\u003cstrong\u003ewr\u003c/strong\u003eap /\u003cstrong\u003er\u003c/strong\u003eæp/",
+      "audioPath": "AmericanSounds/audio/wrap.mp3"
+    },
+    {
+      "sound": "r",
+      "name": "year",
+      "transcription": "yea\u003cstrong\u003er\u003c/strong\u003e /yi\u003cstrong\u003er\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/year.mp3"
+    },
+    {
+      "sound": "r",
+      "name": "sorry",
+      "transcription": "so\u003cstrong\u003err\u003c/strong\u003ey /\u0027sɑ\u003cstrong\u003er \u003c/strong\u003ei/",
+      "audioPath": "AmericanSounds/audio/sorry.mp3"
+    },
+    {
+      "sound": "r",
+      "name": "red",
+      "transcription": "\u003cstrong\u003er\u003c/strong\u003eed /\u003cstrong\u003er\u003c/strong\u003eɛd/",
+      "audioPath": "AmericanSounds/audio/red.mp3"
+    },
+    {
+      "sound": "r",
+      "name": "write",
+      "transcription": "\u003cstrong\u003ewr\u003c/strong\u003eite /\u003cstrong\u003er\u003c/strong\u003eɑɪt/",
+      "audioPath": "AmericanSounds/audio/write.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "r",
+        "name": "raise",
+        "audioPath": "AmericanSounds/audio/raise.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "reach",
+        "audioPath": "AmericanSounds/audio/reach.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "room",
+        "audioPath": "AmericanSounds/audio/room.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "ready",
+        "audioPath": "AmericanSounds/audio/ready.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "receive",
+        "audioPath": "AmericanSounds/audio/receive.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "reward",
+        "audioPath": "AmericanSounds/audio/reward.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "rhythm",
+        "audioPath": "AmericanSounds/audio/rhythm.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "radio",
+        "audioPath": "AmericanSounds/audio/radio.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "remember",
+        "audioPath": "AmericanSounds/audio/remember.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "r",
+        "name": "reality",
+        "audioPath": "AmericanSounds/audio/reality.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "r",
+        "name": "cheer",
+        "audioPath": "AmericanSounds/audio/cheer.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "ear",
+        "audioPath": "AmericanSounds/audio/ear.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "hire",
+        "audioPath": "AmericanSounds/audio/hire.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "year",
+        "audioPath": "AmericanSounds/audio/year.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "admire",
+        "audioPath": "AmericanSounds/audio/admire.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "appear",
+        "audioPath": "AmericanSounds/audio/appear.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "career",
+        "audioPath": "AmericanSounds/audio/career.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "require",
+        "audioPath": "AmericanSounds/audio/require.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "severe",
+        "audioPath": "AmericanSounds/audio/severe.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "r",
+        "name": "engineer",
+        "audioPath": "AmericanSounds/audio/engineer.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "r",
+        "name": "bring",
+        "audioPath": "AmericanSounds/audio/bring.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "friend",
+        "audioPath": "AmericanSounds/audio/friend.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "group",
+        "audioPath": "AmericanSounds/audio/group.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "throw",
+        "audioPath": "AmericanSounds/audio/throw.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "brother",
+        "audioPath": "AmericanSounds/audio/brother.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "describe",
+        "audioPath": "AmericanSounds/audio/describe.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "hero",
+        "audioPath": "AmericanSounds/audio/hero.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "pregnant",
+        "audioPath": "AmericanSounds/audio/pregnant.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "secret",
+        "audioPath": "AmericanSounds/audio/secret.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "r",
+        "name": "criminal",
+        "audioPath": "AmericanSounds/audio/criminal.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

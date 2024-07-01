@@ -1,0 +1,138 @@
+{
+  "transcription": "ɔɪ",
+  "name": "oi sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/vowelSounds/ɔɪ/ɔɪ.mp3",
+  "photoPath": "AmericanSounds/result/vowelSounds/ɔɪ/ɔɪ.gif",
+  "spellingWordList": [
+    {
+      "sound": "ɔɪ",
+      "name": "joy",
+      "transcription": "j\u003cstrong\u003eoy\u003c/strong\u003e /ʤ\u003cstrong\u003eɔɪ\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/joy.mp3"
+    },
+    {
+      "sound": "ɔɪ",
+      "name": "boy",
+      "transcription": "b\u003cstrong\u003eoy\u003c/strong\u003e /b\u003cstrong\u003eɔɪ\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/boy.mp3"
+    },
+    {
+      "sound": "ɔɪ",
+      "name": "voice",
+      "transcription": "v\u003cstrong\u003eoi\u003c/strong\u003ece /v\u003cstrong\u003eɔɪ\u003c/strong\u003es/",
+      "audioPath": "AmericanSounds/audio/voice.mp3"
+    },
+    {
+      "sound": "ɔɪ",
+      "name": "oil",
+      "transcription": "\u003cstrong\u003eoi\u003c/strong\u003el /\u003cstrong\u003eɔɪ\u003c/strong\u003el/",
+      "audioPath": "AmericanSounds/audio/oil.mp3"
+    },
+    {
+      "sound": "ɔɪ",
+      "name": "loyal",
+      "transcription": "l\u003cstrong\u003eoy\u003c/strong\u003eal /\u0027l\u003cstrong\u003eɔɪ \u003c/strong\u003eəl/",
+      "audioPath": "AmericanSounds/audio/loyal.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "ɔɪ",
+        "name": "oil",
+        "audioPath": "AmericanSounds/audio/oil.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "ɔɪ",
+        "name": "boy",
+        "audioPath": "AmericanSounds/audio/boy.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "toy",
+        "audioPath": "AmericanSounds/audio/toy.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "destroy",
+        "audioPath": "AmericanSounds/audio/destroy.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "enjoy",
+        "audioPath": "AmericanSounds/audio/enjoy.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "ɔɪ",
+        "name": "choice",
+        "audioPath": "AmericanSounds/audio/choice.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "join",
+        "audioPath": "AmericanSounds/audio/join.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "joint",
+        "audioPath": "AmericanSounds/audio/joint.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "noise",
+        "audioPath": "AmericanSounds/audio/noise.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "point",
+        "audioPath": "AmericanSounds/audio/point.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "avoid",
+        "audioPath": "AmericanSounds/audio/avoid.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "loyal",
+        "audioPath": "AmericanSounds/audio/loyal.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "poison",
+        "audioPath": "AmericanSounds/audio/poison.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "appointment",
+        "audioPath": "AmericanSounds/audio/appointment.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ɔɪ",
+        "name": "employee",
+        "audioPath": "AmericanSounds/audio/employee.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "vowelSounds"
+}

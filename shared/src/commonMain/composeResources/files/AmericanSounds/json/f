@@ -1,0 +1,234 @@
+{
+  "transcription": "f",
+  "name": "f sound ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/f/f.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/f/f.gif",
+  "spellingWordList": [
+    {
+      "sound": "f",
+      "name": "fine",
+      "transcription": "\u003cstrong\u003ef\u003c/strong\u003eine /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003eɑɪn/",
+      "audioPath": "AmericanSounds/audio/fine.mp3"
+    },
+    {
+      "sound": "f",
+      "name": "phase",
+      "transcription": "\u003cstrong\u003eph\u003c/strong\u003ease /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003eeɪz/",
+      "audioPath": "AmericanSounds/audio/phase.mp3"
+    },
+    {
+      "sound": "f",
+      "name": "orphan",
+      "transcription": "or\u003cstrong\u003eph\u003c/strong\u003ean /\u0027ɔr \u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003eən/",
+      "audioPath": "AmericanSounds/audio/orphan.mp3"
+    },
+    {
+      "sound": "f",
+      "name": "stuff",
+      "transcription": "stu\u003cstrong\u003eff\u003c/strong\u003e /stʌ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/stuff.mp3"
+    },
+    {
+      "sound": "f",
+      "name": "lift",
+      "transcription": "li\u003cstrong\u003ef\u003c/strong\u003et /lɪ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003et/",
+      "audioPath": "AmericanSounds/audio/lift.mp3"
+    },
+    {
+      "sound": "f",
+      "name": "graph",
+      "transcription": "gra\u003cstrong\u003eph\u003c/strong\u003e /græ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003ef\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/graph.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "f",
+        "name": "face",
+        "audioPath": "AmericanSounds/audio/face.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "fast",
+        "audioPath": "AmericanSounds/audio/fast.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "friend",
+        "audioPath": "AmericanSounds/audio/friend.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "female",
+        "audioPath": "AmericanSounds/audio/female.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "finish",
+        "audioPath": "AmericanSounds/audio/finish.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "follow",
+        "audioPath": "AmericanSounds/audio/follow.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "frequent",
+        "audioPath": "AmericanSounds/audio/frequent.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "frustrate",
+        "audioPath": "AmericanSounds/audio/frustrate.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "foundation",
+        "audioPath": "AmericanSounds/audio/foundation.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "f",
+        "name": "physical",
+        "audioPath": "AmericanSounds/audio/physical.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "f",
+        "name": "graph",
+        "audioPath": "AmericanSounds/audio/graph.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "half",
+        "audioPath": "AmericanSounds/audio/half.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "laugh",
+        "audioPath": "AmericanSounds/audio/laugh.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "life",
+        "audioPath": "AmericanSounds/audio/life.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "off",
+        "audioPath": "AmericanSounds/audio/off.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "safe",
+        "audioPath": "AmericanSounds/audio/safe.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "tough",
+        "audioPath": "AmericanSounds/audio/tough.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "belief",
+        "audioPath": "AmericanSounds/audio/belief.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "enough",
+        "audioPath": "AmericanSounds/audio/enough.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "f",
+        "name": "relief",
+        "audioPath": "AmericanSounds/audio/relief.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "f",
+        "name": "left",
+        "audioPath": "AmericanSounds/audio/left.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "sphere",
+        "audioPath": "AmericanSounds/audio/sphere.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "conference",
+        "audioPath": "AmericanSounds/audio/conference.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "confirm",
+        "audioPath": "AmericanSounds/audio/confirm.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "effort",
+        "audioPath": "AmericanSounds/audio/effort.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "refer",
+        "audioPath": "AmericanSounds/audio/refer.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "transfer",
+        "audioPath": "AmericanSounds/audio/transfer.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "classify",
+        "audioPath": "AmericanSounds/audio/classify.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "specific",
+        "audioPath": "AmericanSounds/audio/specific.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "f",
+        "name": "significant",
+        "audioPath": "AmericanSounds/audio/significant.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}

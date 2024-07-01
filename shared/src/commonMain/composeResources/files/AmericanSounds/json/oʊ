@@ -1,0 +1,258 @@
+{
+  "transcription": "oʊ",
+  "name": "long o ",
+  "description": "",
+  "audioPath": "AmericanSounds/result/vowelSounds/oʊ/oʊ.mp3",
+  "photoPath": "AmericanSounds/result/vowelSounds/oʊ/oʊ.gif",
+  "spellingWordList": [
+    {
+      "sound": "oʊ",
+      "name": "joke",
+      "transcription": "j\u003cstrong\u003eo\u003c/strong\u003ek\u003cstrong\u003ee\u003c/strong\u003e /ʤ\u003cstrong\u003eoʊ\u003c/strong\u003ek/",
+      "audioPath": "AmericanSounds/audio/joke.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "rope",
+      "transcription": "r\u003cstrong\u003eo\u003c/strong\u003ep\u003cstrong\u003ee\u003c/strong\u003e /r\u003cstrong\u003eoʊ\u003c/strong\u003ep/",
+      "audioPath": "AmericanSounds/audio/rope.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "go",
+      "transcription": "g\u003cstrong\u003eo\u003c/strong\u003e /g\u003cstrong\u003eoʊ\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/go.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "vote",
+      "transcription": "v\u003cstrong\u003eo\u003c/strong\u003et\u003cstrong\u003ee\u003c/strong\u003e /v\u003cstrong\u003eoʊ\u003c/strong\u003et/",
+      "audioPath": "AmericanSounds/audio/vote.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "known",
+      "transcription": "kn\u003cstrong\u003eow\u003c/strong\u003en /n\u003cstrong\u003eoʊ\u003c/strong\u003en/",
+      "audioPath": "AmericanSounds/audio/known.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "own",
+      "transcription": "\u003cstrong\u003eow\u003c/strong\u003en /\u003cstrong\u003eoʊ\u003c/strong\u003en/",
+      "audioPath": "AmericanSounds/audio/own.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "soap",
+      "transcription": "soap /s\u003cstrong\u003eoʊ\u003c/strong\u003ep/",
+      "audioPath": "AmericanSounds/audio/soap.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "snow",
+      "transcription": "sn\u003cstrong\u003eow\u003c/strong\u003e /sn\u003cstrong\u003eoʊ\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/snow.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "most",
+      "transcription": "m\u003cstrong\u003eo\u003c/strong\u003est /m\u003cstrong\u003eoʊ\u003c/strong\u003est/",
+      "audioPath": "AmericanSounds/audio/most.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "toast",
+      "transcription": "toast /t\u003cstrong\u003eoʊ\u003c/strong\u003est/",
+      "audioPath": "AmericanSounds/audio/toast.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "boat",
+      "transcription": "boat /b\u003cstrong\u003eoʊ\u003c/strong\u003et/",
+      "audioPath": "AmericanSounds/audio/boat.mp3"
+    },
+    {
+      "sound": "oʊ",
+      "name": "both",
+      "transcription": "b\u003cstrong\u003eo\u003c/strong\u003eth /b\u003cstrong\u003eoʊ\u003c/strong\u003eθ/",
+      "audioPath": "AmericanSounds/audio/both.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "oʊ",
+        "name": "old",
+        "audioPath": "AmericanSounds/audio/old.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "owe",
+        "audioPath": "AmericanSounds/audio/owe.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "own",
+        "audioPath": "AmericanSounds/audio/own.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "ocean",
+        "audioPath": "AmericanSounds/audio/ocean.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "only",
+        "audioPath": "AmericanSounds/audio/only.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "open",
+        "audioPath": "AmericanSounds/audio/open.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "over",
+        "audioPath": "AmericanSounds/audio/over.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "occasionally",
+        "audioPath": "AmericanSounds/audio/occasionally.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "oʊ",
+        "name": "go",
+        "audioPath": "AmericanSounds/audio/go.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "snow",
+        "audioPath": "AmericanSounds/audio/snow.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "throw",
+        "audioPath": "AmericanSounds/audio/throw.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "ago",
+        "audioPath": "AmericanSounds/audio/ago.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "below",
+        "audioPath": "AmericanSounds/audio/below.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "follow",
+        "audioPath": "AmericanSounds/audio/follow.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "hero",
+        "audioPath": "AmericanSounds/audio/hero.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "shadow",
+        "audioPath": "AmericanSounds/audio/shadow.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "potato",
+        "audioPath": "AmericanSounds/audio/potato.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "studio",
+        "audioPath": "AmericanSounds/audio/studio.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "oʊ",
+        "name": "both",
+        "audioPath": "AmericanSounds/audio/both.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "goes",
+        "audioPath": "AmericanSounds/audio/goes.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "most",
+        "audioPath": "AmericanSounds/audio/most.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "road",
+        "audioPath": "AmericanSounds/audio/road.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "going",
+        "audioPath": "AmericanSounds/audio/going.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "moment",
+        "audioPath": "AmericanSounds/audio/moment.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "promote",
+        "audioPath": "AmericanSounds/audio/promote.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "suppose",
+        "audioPath": "AmericanSounds/audio/suppose.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "total",
+        "audioPath": "AmericanSounds/audio/total.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "oʊ",
+        "name": "episode",
+        "audioPath": "AmericanSounds/audio/episode.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "vowelSounds"
+}

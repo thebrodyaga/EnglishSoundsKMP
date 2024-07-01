@@ -1,0 +1,150 @@
+{
+  "transcription": "ð",
+  "name": "th sound (voiced)\u0026nbsp;",
+  "description": "",
+  "audioPath": "AmericanSounds/result/consonantSounds/ð/ð.mp3",
+  "photoPath": "AmericanSounds/result/consonantSounds/ð/ð.gif",
+  "spellingWordList": [
+    {
+      "sound": "ð",
+      "name": "them",
+      "transcription": "\u003cstrong\u003eth\u003c/strong\u003eem /\u003cstrong\u003eð\u003c/strong\u003eɛm/",
+      "audioPath": "AmericanSounds/audio/them.mp3"
+    },
+    {
+      "sound": "ð",
+      "name": "bath",
+      "transcription": "ba\u003cstrong\u003eth\u003c/strong\u003e /bæ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eθ\u003c/span\u003e\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/bath.mp3"
+    },
+    {
+      "sound": "ð",
+      "name": "mother",
+      "transcription": "mo\u003cstrong\u003eth\u003c/strong\u003eer /\u0027mʌ\u003cstrong\u003eð \u003c/strong\u003eɚ/",
+      "audioPath": "AmericanSounds/audio/mother.mp3"
+    },
+    {
+      "sound": "ð",
+      "name": "think",
+      "transcription": "\u003cstrong\u003eth\u003c/strong\u003eink /\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eθ\u003c/span\u003e\u003c/strong\u003eɪŋk/",
+      "audioPath": "AmericanSounds/audio/think.mp3"
+    },
+    {
+      "sound": "ð",
+      "name": "smooth",
+      "transcription": "smoo\u003cstrong\u003eth\u003c/strong\u003e /smu\u003cstrong\u003eð\u003c/strong\u003e/",
+      "audioPath": "AmericanSounds/audio/smooth.mp3"
+    },
+    {
+      "sound": "ð",
+      "name": "method",
+      "transcription": "me\u003cstrong\u003eth\u003c/strong\u003eod /\u0027mɛ\u003cstrong\u003e\u003cspan style\u003d\"font-size:medium\"\u003eθ \u003c/span\u003e\u003c/strong\u003eəd/",
+      "audioPath": "AmericanSounds/audio/method.mp3"
+    }
+  ],
+  "soundPracticeWords": {
+    "beginningSound": [
+      {
+        "sound": "ð",
+        "name": "that",
+        "audioPath": "AmericanSounds/audio/that.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ð",
+        "name": "the",
+        "audioPath": "AmericanSounds/audio/the.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ð",
+        "name": "their/there/they\u0027re",
+        "audioPath": "AmericanSounds/audio/their%2fthere%2fthey\u0027re.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ð",
+        "name": "them",
+        "audioPath": "AmericanSounds/audio/them.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ð",
+        "name": "those",
+        "audioPath": "AmericanSounds/audio/those.mp3",
+        "soundPositionType": "beginningSound"
+      },
+      {
+        "sound": "ð",
+        "name": "themselves",
+        "audioPath": "AmericanSounds/audio/themselves.mp3",
+        "soundPositionType": "beginningSound"
+      }
+    ],
+    "endSound": [
+      {
+        "sound": "ð",
+        "name": "breathe",
+        "audioPath": "AmericanSounds/audio/breathe.mp3",
+        "soundPositionType": "endSound"
+      },
+      {
+        "sound": "ð",
+        "name": "smooth",
+        "audioPath": "AmericanSounds/audio/smooth.mp3",
+        "soundPositionType": "endSound"
+      }
+    ],
+    "middleSound": [
+      {
+        "sound": "ð",
+        "name": "although",
+        "audioPath": "AmericanSounds/audio/although.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "brother",
+        "audioPath": "AmericanSounds/audio/brother.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "either",
+        "audioPath": "AmericanSounds/audio/either.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "father",
+        "audioPath": "AmericanSounds/audio/father.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "mother",
+        "audioPath": "AmericanSounds/audio/mother.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "other",
+        "audioPath": "AmericanSounds/audio/other.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "rhythm",
+        "audioPath": "AmericanSounds/audio/rhythm.mp3",
+        "soundPositionType": "middleSound"
+      },
+      {
+        "sound": "ð",
+        "name": "another",
+        "audioPath": "AmericanSounds/audio/another.mp3",
+        "soundPositionType": "middleSound"
+      }
+    ]
+  },
+  "soundType": "consonantSounds"
+}
