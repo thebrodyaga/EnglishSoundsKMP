@@ -1,5 +1,5 @@
 [versions]
-agp = "8.5.0"
+agp = "8.4.2"
 kotlin = "2.0.0"
 composePlugin = "1.6.11"
 
@@ -10,10 +10,12 @@ versionCode = "41"
 versionName = "1.5.8"
 
 activity = "1.9.0"
+kotlinSerialization = "1.7.1"
 
 [libraries]
 ## Shared
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
+kotlin-serialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinSerialization" }
 
 ## Android
 compose-bom = "androidx.compose:compose-bom:2024.06.00"
