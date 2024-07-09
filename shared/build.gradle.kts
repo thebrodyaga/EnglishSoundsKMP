@@ -29,6 +29,10 @@ kotlin {
     }
 
     sourceSets {
+        androidMain.dependencies {
+            implementation(libs.exo.player)
+            implementation(libs.compose.activity)
+        }
         commonMain.dependencies {
             implementation(compose.runtime)
             implementation(compose.foundation)
@@ -38,6 +42,8 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
 
             implementation(libs.kotlin.serialization)
+            api(libs.decompose)
+            api(libs.koin.core)
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)
