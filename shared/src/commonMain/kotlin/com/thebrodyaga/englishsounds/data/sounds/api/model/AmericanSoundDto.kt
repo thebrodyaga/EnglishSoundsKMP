@@ -1,7 +1,5 @@
 package com.thebrodyaga.englishsounds.data.sounds.api.model
 
-import com.thebrodyaga.englishsounds.PracticeWordDto
-import com.thebrodyaga.englishsounds.SpellingWordDto
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 

@@ -1,0 +1,31 @@
+<resources>
+    <string name="main_menu_tab_first">@string/sounds</string>
+    <string name="main_menu_tab_second">@string/videos</string>
+    <string name="main_menu_tab_third">@string/words</string>
+    <string name="main_menu_tab_fourth">@string/settings</string>
+    <string name="vowel_sounds">Гласные звуки</string>
+    <string name="r_controlled_vowels">R-controlled звуки</string>
+    <string name="consonant_sounds">Согласные звуки</string>
+    <string name="vowel_sounds_short">Гласные</string>
+    <string name="r_controlled_vowels_short">R-controlled</string>
+    <string name="consonant_sounds_short">Согласные</string>
+    <string name="all">Все</string>
+    <string name="privacy_settings">Настройки приватности</string>
+
+    <string name="SPELLING">Произношение</string>
+    <string name="BEGINNING_SOUND">В начале</string>
+    <string name="MIDDLE_SOUND">В середине</string>
+    <string name="END_SOUND">В конце</string>
+    <string name="use_system_theme">Системная тема</string>
+    <string name="use_dark_theme">Темная тема</string>
+    <string name="contrasting_sound_video_title">Контрастные звуки</string>
+    <string name="most_common_words_video_title">Популярные слова</string>
+    <string name="advanced_exercises_video_title">Расширенные упражнения</string>
+    <string name="show_all">Все</string>
+    <string name="language">Язык</string>
+
+    <string name="sounds">Звуки</string>
+    <string name="videos">Видео</string>
+    <string name="words">Слова</string>
+    <string name="settings">Настройки</string>
+</resources>

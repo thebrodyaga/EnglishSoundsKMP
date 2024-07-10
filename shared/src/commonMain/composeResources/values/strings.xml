@@ -1,0 +1,31 @@
+<resources>
+    <string name="main_menu_tab_first">@string/sounds</string>
+    <string name="main_menu_tab_second">@string/videos</string>
+    <string name="main_menu_tab_third">@string/words</string>
+    <string name="main_menu_tab_fourth">@string/settings</string>
+    <string name="vowel_sounds">Vowel Sounds</string>
+    <string name="r_controlled_vowels">R-controlled vowels</string>
+    <string name="consonant_sounds">Consonant Sounds</string>
+    <string name="vowel_sounds_short">Vocal</string>
+    <string name="r_controlled_vowels_short">R-controlled</string>
+    <string name="consonant_sounds_short">Consonant</string>
+    <string name="contrasting_sound_video_title">Contrasting Sounds</string>
+    <string name="most_common_words_video_title">Most Common Words</string>
+    <string name="advanced_exercises_video_title">Advanced Exercises</string>
+    <string name="all">All</string>
+    <string name="show_all">Show all</string>
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="language">Language</string>
+
+    <string name="SPELLING">Spelling</string>
+    <string name="BEGINNING_SOUND">Beginning sound</string>
+    <string name="MIDDLE_SOUND">Middle Sound</string>
+    <string name="END_SOUND">End Sound</string>
+    <string name="use_system_theme">System Theme</string>
+    <string name="use_dark_theme">Dark Theme</string>
+
+    <string name="sounds">Sounds</string>
+    <string name="videos">Videos</string>
+    <string name="words">Words</string>
+    <string name="settings">Settings</string>
+</resources>

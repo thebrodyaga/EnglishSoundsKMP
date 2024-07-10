@@ -1,16 +1,17 @@
+@file:OptIn(ExperimentalResourceApi::class)
+
 package com.thebrodyaga.englishsounds.root.api
 
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.essenty.lifecycle.doOnResume
-import com.thebrodyaga.englishsounds.AmericanSoundDto
+import com.thebrodyaga.englishsounds.data.sounds.api.model.AmericanSoundDto
 import englishsoundskmp.shared.generated.resources.Res
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 
-@OptIn(ExperimentalResourceApi::class)
 class RootComponent(
-    platformDependencies: PlatformDependencies,
+    rootDependencies: RootDependencies,
     componentContext: ComponentContext,
 ) : Root, ComponentContext by componentContext {
 
@@ -23,7 +24,7 @@ class RootComponent(
                     withUnknownKeys.decodeFromString(sound.decodeToString())
                 dto
             }
-            platformDependencies.audioPlayer.playAudio(Res.getUri("files/" + list.first().audioPath))
+            rootDependencies.audioPlayer.playAudio(Res.getUri("files/" + list.first().audioPath))
         }
     }
 }
